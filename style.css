@@ -1,0 +1,89 @@
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    background-color: #ffccff;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.navbar-nav :hover{
+    font-weight: bolder;
+    font-size: large;
+}
+
+#percent {
+    border-radius: 1rem;
+    text-align: end;
+}
+
+#percent :hover{
+    background: #c61aff;
+    border-radius: 1rem;
+    color: #fff; 
+    border: #000;
+}
+
+#ser-img{
+    align-items: center;
+}
+
+.services{
+    color: #000;
+}
+
+.ser{
+    border-radius: 5rem;
+}
+
+.contact {
+    border-radius: 1rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.services{
+    background-color: #ffccff;
+}
+
+.skills :hover,
+.services :hover{
+    font-weight: bold;
+}
+
+.contactus {
+    border-color: #000;
+    font-size: large;
+    font-weight: 500;
+}
+
+.contact-img{
+    width: 20rem;
+    height: 20rem;
+    align-items: center;
+}
+
+.form{
+    background-color: #ffccff;
+    border-radius: 3rem;
+    margin-bottom: 2rem;
+}
+
+.form :hover{
+    border-radius: 2rem;
+}
+
+#button {
+    border-color: #fff;
+    border-radius: 3rem;
+    width: 10rem;
+    height: 4rem;
+}
+
+.contact-img :hover{
+    width: 22rem;
+    height: 22rem;
+}
